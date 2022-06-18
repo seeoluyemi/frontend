@@ -1,0 +1,16 @@
+export default {
+    deep__purple: '#211048',
+    white: '#FFF',
+    dense__purple: '#392859',
+    button__border: '#E6E7EF',
+    linear__blue: '#01CCFF',
+    linear__yellow1: '#F4A136',
+    linear__yellow2: '#FCD000',
+    linear__green1: '#03DA8D',
+    linear__green2: '#09EFA3',
+    linear__purple1: '#B558F9',
+    linear__purple2: '#932CFF',
+    card__blue1: '#01CBFF',
+    card__blue2: '#0193FF',
+    grey: '#F5F5F9',
+}
