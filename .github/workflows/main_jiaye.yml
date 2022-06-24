@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Jiaye'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF6093C9993A452A81A590C7A669A7C8 }}
+          publish-profile: ${{ secrets.WEB_APP_SECRET }}
           package: .
