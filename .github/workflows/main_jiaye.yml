@@ -50,7 +50,7 @@ jobs:
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
-          app-name: 'Jiaye'
-          slot-name: 'Production'
+          app-name: 'yemi'
+          slot-name: 'myprod'
           publish-profile: ${{ secrets.WEB_APP_SECRET }}
           package: .
